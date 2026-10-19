@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Martin
 
-<!--
-**martinchaouk/martinchaouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm finishing an MSc in Computer Science at UCL. Before that I did an MSc in
+Statistics and spent a year as a data analyst at a mobile game company in Taiwan,
+so most of what I build sits somewhere between data and software.
 
-Here are some ideas to get you started:
+My MSc thesis was a document extraction pipeline built with Digital Bridge Labs
+and IBM for the Government of Bangladesh. It reads garment exporters' trade
+documents and merges them into one record, and refuses any value the LLM can't
+point to in the source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I've built
+
+- **[AI Document Engine](link-to-writeup)** – design notes and benchmark results
+  from my thesis (code is private, this is the write-up)
+- **[Infusion](link)** – career platform for a client, Next.js + PostgreSQL on Azure.
+  I did the schema, three of the modules and the deployment
+- **[nba-entropy-selection](link)** – a feature selection method based on
+  conditional entropy, from my statistics thesis
+
+### Stack
+
+Python, TypeScript, SQL · Next.js, PostgreSQL, Docker · Ollama, Docling
+
+📫 martinchaouk@gmail.com · [LinkedIn](https://linkedin.com/in/martin-chao)
